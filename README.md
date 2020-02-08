@@ -34,6 +34,8 @@ Lista de eventos que se celebran todos los años en Castilla y León:
 ### Segovia
 
 * [:bird:](https://twitter.com/agiletorrezno) Agile Torrezno
+* [:bird:](https://twitter.com/SegoTechTrain) Segovia Tech Train
+
 
 ### Valladolid
 
